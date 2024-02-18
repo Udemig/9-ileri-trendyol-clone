@@ -1,0 +1,10 @@
+bu ikisini de kullanmak için "display flex" ile kullanabiliyoruz
+
+justify-content: space-between;
+elemanları en uç noktalara götürür.
+
+gap: 20px;
+elemanlar arası 20 pixel boşluk bırakır.
+
+flex-wrap: wrap;
+taşan objeleri bir alt satıra alır
